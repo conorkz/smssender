@@ -3,6 +3,7 @@ This script sends SMS to desired number. It needs the `account_sid`, `auth_token
 ## Requirements
 - Python 3.x
 - Twilio library (`pip install twilio`)
+- Or just run `$ pip install -r requirements.txt`
 ## Usage
 1. Save the script to a file (e.g. `sms.py`).
 2. Write your credentials from your Twilio account and the number to which the SMS will be sent.
